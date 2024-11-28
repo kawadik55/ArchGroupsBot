@@ -1,1 +1,2 @@
-# ArchGroupsBot
+# ArchGroupsBot  
+Бот - Архивариус для групп.  
